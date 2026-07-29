@@ -1,0 +1,48 @@
+{
+  "itemGroup.bettertrees": "Better Trees",
+
+  "block.bettertrees.oak_branch_12": "Oak Branch (12px)",
+  "block.bettertrees.oak_branch_8": "Oak Branch (8px)",
+  "block.bettertrees.oak_branch_4": "Oak Branch (4px)",
+  "block.bettertrees.oak_sapling": "Better Oak Sapling",
+
+  "block.bettertrees.spruce_branch_12": "Spruce Branch (12px)",
+  "block.bettertrees.spruce_branch_8": "Spruce Branch (8px)",
+  "block.bettertrees.spruce_branch_4": "Spruce Branch (4px)",
+  "block.bettertrees.spruce_sapling": "Better Spruce Sapling",
+
+  "block.bettertrees.birch_branch_12": "Birch Branch (12px)",
+  "block.bettertrees.birch_branch_8": "Birch Branch (8px)",
+  "block.bettertrees.birch_branch_4": "Birch Branch (4px)",
+  "block.bettertrees.birch_sapling": "Better Birch Sapling",
+
+  "block.bettertrees.jungle_branch_12": "Jungle Branch (12px)",
+  "block.bettertrees.jungle_branch_8": "Jungle Branch (8px)",
+  "block.bettertrees.jungle_branch_4": "Jungle Branch (4px)",
+  "block.bettertrees.jungle_sapling": "Better Jungle Sapling",
+
+  "block.bettertrees.acacia_branch_12": "Acacia Branch (12px)",
+  "block.bettertrees.acacia_branch_8": "Acacia Branch (8px)",
+  "block.bettertrees.acacia_branch_4": "Acacia Branch (4px)",
+  "block.bettertrees.acacia_sapling": "Better Acacia Sapling",
+
+  "block.bettertrees.dark_oak_branch_12": "Dark Oak Branch (12px)",
+  "block.bettertrees.dark_oak_branch_8": "Dark Oak Branch (8px)",
+  "block.bettertrees.dark_oak_branch_4": "Dark Oak Branch (4px)",
+  "block.bettertrees.dark_oak_sapling": "Better Dark Oak Sapling",
+
+  "block.bettertrees.mangrove_branch_12": "Mangrove Branch (12px)",
+  "block.bettertrees.mangrove_branch_8": "Mangrove Branch (8px)",
+  "block.bettertrees.mangrove_branch_4": "Mangrove Branch (4px)",
+  "block.bettertrees.mangrove_sapling": "Better Mangrove Sapling",
+
+  "block.bettertrees.cherry_branch_12": "Cherry Branch (12px)",
+  "block.bettertrees.cherry_branch_8": "Cherry Branch (8px)",
+  "block.bettertrees.cherry_branch_4": "Cherry Branch (4px)",
+  "block.bettertrees.cherry_sapling": "Better Cherry Sapling",
+
+  "block.bettertrees.pale_oak_branch_12": "Pale Oak Branch (12px)",
+  "block.bettertrees.pale_oak_branch_8": "Pale Oak Branch (8px)",
+  "block.bettertrees.pale_oak_branch_4": "Pale Oak Branch (4px)",
+  "block.bettertrees.pale_oak_sapling": "Better Pale Oak Sapling"
+}
